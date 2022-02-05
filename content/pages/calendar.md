@@ -4,22 +4,231 @@ title: Calendar
 uid: 3d0d08a5-a82d-3c0d-2f8a-020cbc2638ec
 ---
 
-| JOURS | CONTENU | ESSAIS ET EXAMENS |
-| --- | --- | --- |
-| Jour 1 | Introduction, prise de contact, etc. |  |
-| Jours 2-4  | Chapitre préliminaire: _Entrée en scène_ |  |
-| Jours 5-9 | Chapitre 1: _Premiers contacts_ |  |
-| Jour 10 |  | Examen #1  {{< br >}}Chapitre préliminaire et Chapitre 1 |
-| Jours 11-15 | Chapitre 2: _On rejoint la communauté francophone_ |  |
-| Jour 16 |  | Examen #2  {{< br >}}Chapitre 2 |
-| Jour 17-21 | Chapitre 3: _Tour de France_ | Rédaction 1: "Je me présente" |
-| Jour 22 |  | Examen #3  {{< br >}}Chapitre 3 |
-| Jour 23-27 | Chapitre 4: _La ville et le quartier_ |  |
-| Jour 28 |  | Examen #4  {{< br >}}Chapitre 4 |
-| Jour 29-33 | Chapitre 5: _Des gens de toutes sortes_ | Rédaction 2: "Mon pays adoptif" |
-| Jour 34 |  | Examen #5  {{< br >}}Chapitre 5 |
-| Jour 35-39 | Chapitre 6: _Chez soi_ |  |
-| Jour 40 |  | Examen #6  {{< br >}}Chapitre 6 |
-| Jours 41-44 | Chapitre 7: _A table_ |  |
-| Jour 45 |  | Rédaction 3: "Journal de vacances" |
-| Jours 46 et 47 | Présentations individuelles |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+JOURS
+{{< thclose >}}
+{{< thopen >}}
+CONTENU
+{{< thclose >}}
+{{< thopen >}}
+ESSAIS ET EXAMENS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Jour 1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction, prise de contact, etc.
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Jours 2-4 
+{{< tdclose >}}
+{{< tdopen >}}
+Chapitre préliminaire: _Entrée en scène_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Jours 5-9
+{{< tdclose >}}
+{{< tdopen >}}
+Chapitre 1: _Premiers contacts_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Jour 10
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Examen #1  
+Chapitre préliminaire et Chapitre 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Jours 11-15
+{{< tdclose >}}
+{{< tdopen >}}
+Chapitre 2: _On rejoint la communauté francophone_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Jour 16
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Examen #2  
+Chapitre 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Jour 17-21
+{{< tdclose >}}
+{{< tdopen >}}
+Chapitre 3: _Tour de France_
+{{< tdclose >}}
+{{< tdopen >}}
+Rédaction 1: "Je me présente"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Jour 22
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Examen #3  
+Chapitre 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Jour 23-27
+{{< tdclose >}}
+{{< tdopen >}}
+Chapitre 4: _La ville et le quartier_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Jour 28
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Examen #4  
+Chapitre 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Jour 29-33
+{{< tdclose >}}
+{{< tdopen >}}
+Chapitre 5: _Des gens de toutes sortes_
+{{< tdclose >}}
+{{< tdopen >}}
+Rédaction 2: "Mon pays adoptif"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Jour 34
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Examen #5  
+Chapitre 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Jour 35-39
+{{< tdclose >}}
+{{< tdopen >}}
+Chapitre 6: _Chez soi_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Jour 40
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Examen #6  
+Chapitre 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Jours 41-44
+{{< tdclose >}}
+{{< tdopen >}}
+Chapitre 7: _A table_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Jour 45
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Rédaction 3: "Journal de vacances"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Jours 46 et 47
+{{< tdclose >}}
+{{< tdopen >}}
+Présentations individuelles
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
