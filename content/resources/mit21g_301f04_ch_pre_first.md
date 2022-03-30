@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding in class activities.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-301-french-i-fall-2004/175c640d1ef1abd5fc6b1f012abcdd90_MIT21G_301F04_ch_pre_first.pdf
 file_type: application/pdf
+parent_uid: c5cfbfca-c593-0461-0d26-864fd8574ef1
 resourcetype: Document
 title: 'ACTIVITE: ON LIT UN JOURNAL FRANCAIS'
 uid: 175c640d-1ef1-abd5-fc6b-1f012abcdd90

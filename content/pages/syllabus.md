@@ -31,7 +31,7 @@ Course Requirements
 
 ### A. Content
 
-We will cover **the preliminary chapter and the next 7 chapters** (chapters 1 through 7) of your textbook. (The following 6 chapters will be covered in [French 21G.302](/courses/21g-302-french-ii-fall-2004/).)
+We will cover **the preliminary chapter and the next 7 chapters** (chapters 1 through 7) of your textbook. (The following 6 chapters will be covered in [French 21G.302](/courses/21g-302-french-ii-fall-2004).)
 
 You will also be working, on your own, on the corresponding audio and written portions of your _Cahier d'activités_.
 
